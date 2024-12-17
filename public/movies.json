@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "image": "https://uakino.me/uploads/post/Inception/evcpThLSeQLlQ8xNvjkI2PQyuMh.jpg",
+    "title": "Inception",
+    "rating": 8.8,
+    "release_date": "2010-07-16",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+    "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+    "director": "Christopher Nolan",
+    "genre": ["Action", "Sci-Fi", "Thriller"]
+  },
+  {
+    "id": 2,
+    "image": "https://uakino.me/uploads/post/The%20Green%20Mile/bqwOUBxtK0KWijnSAR5ykWyQamn.jpg",
+    "title": "The Green Mile",
+    "rating": 8.6,
+    "release_date": "1999-12-10",
+    "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder who has a special gift.",
+    "actors": ["Tom Hanks", "Michael Clarke Duncan", "David Morse"],
+    "director": "Frank Darabont",
+    "genre": ["Crime", "Drama", "Fantasy"]
+  },
+  {
+    "id": 3,
+    "image": "https://uakino.me/uploads/post/Forrest%20Gump/rTB92gAU27aJNPzAhqL3ivYGaS7.jpg",
+    "title": "Forrest Gump",
+    "rating": 8.8,
+    "release_date": "1994-07-06",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an extraordinary life.",
+    "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+    "director": "Robert Zemeckis",
+    "genre": ["Drama", "Romance"]
+  },
+  {
+    "id": 4,
+    "image": "https://uakino.me/uploads/post/The%20Departed/47dRUBFytF88DRQ0UgIZqqT4G0P.jpg",
+    "title": "The Departed",
+    "rating": 8.5,
+    "release_date": "2006-10-06",
+    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "actors": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
+    "director": "Martin Scorsese",
+    "genre": ["Crime", "Drama", "Thriller"]
+  },
+
+  {
+    "id": 5,
+    "image": "https://uakino.me/uploads/post/The%20Matrix/oiQNhGHZ4Zg3fZXMZqf20vzaeuI.jpg",
+    "title": "The Matrix",
+    "rating": 8.7,
+    "release_date": "1999-03-31",
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "genre": ["Action", "Sci-Fi"]
+  },
+
+  {
+    "id": 6,
+    "image": "https://uakino.me/uploads/posts/2022-09/1663851044_11.jpg",
+    "title": "Avatar",
+    "rating": 7.8,
+    "release_date": "2009-12-18",
+    "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "actors": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+    "director": "James Cameron",
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+  }
+]
